@@ -1,7 +1,9 @@
-package Test1;
+package Test1.MainRun;
 
 public class Main {
     static void main(String[] args) {
         System.out.println("HelloWorld");
+        System.out.println("HelloWorld");
+
     }
 }
